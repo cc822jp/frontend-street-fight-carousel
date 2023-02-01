@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 @layer components {
-    .layout {
-        @apply relative min-h-screen grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: auto 1fr auto;
-    }
+  .layout {
+    @apply relative min-h-screen grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+  }
 }
